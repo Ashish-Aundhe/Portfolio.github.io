@@ -1,0 +1,120 @@
+	*{
+		margin:0px;
+		padding:0px;
+	}
+	.center{
+		margin-left:auto;
+		margin-right:auto;
+	}
+	.navbar{
+		height:10vh;
+		width:100vw;
+		background-color:#A66CFF;	
+	}
+	#title{
+		display:inline-block;
+		color:white;
+		margin-top:20px;
+		margin-left:30px;
+		font-size:30px;
+		text-shadow:2px 2px 4px red;
+	    }
+	}
+	#nav_navinfo{
+		border-radius:10px;
+		text-align:right;
+		margin-right:30px;
+		font-size:20px;
+		margin-top:-30px;
+	}
+	#nav_navinfo li{
+		display:inline-block;
+		text-align:right;
+		margin-left:40px;
+		align-items:end;
+	}
+	#nav_navinfo a{
+		text-decoration:none;
+		color:white;
+		
+			}
+	/*main body css*/
+		#main_body{
+			height:100vh;
+			width:100vw;
+			background-image:url('bulb.png');
+			
+			background-position: center;
+			background-color:red;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+			#main_body h1{
+				color:white;
+				text-align:center;
+				text-shadow:2px 2px 4px red;
+				font-size:80px;
+				padding-top:290px;
+		}
+			#personal_info{
+				height:100vh;
+				width:100vw;
+				background-color:;
+				color:black;
+				background-image:
+				background-repeat:no-repeat;
+				
+				
+				
+			}
+			#pers_table{
+				font-size:20px;
+				margin-top:30px;
+				margin-left:50px;
+				background-color:lightblue;
+				
+				height:90vh;
+				width:90vw;
+				align-items:center;
+				text-align:center;
+				
+			}
+			
+			#pages{
+				
+			}
+			
+			#pers_table img{
+				height:400px;
+				width:100%;
+			}
+			
+			#pers_table ul{
+			  	margin-left:20px;
+			}
+			
+			#Educational_info{
+				
+			
+				height:100vh;
+				width:100vw;
+				background-size:cover;
+				
+			}
+			#Skills_info{
+				height:100vh;
+				width:100vw;
+				background-color:yellow;
+			}
+			#About_info{
+				height:100vh;
+				width:100vw;
+				background-color:blue;
+			}
+			#edu_table{
+				text-align:center;
+				height:100vh;
+				width:100vw;
+			}
+			
+	

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Portfolio</title>
+		<link rel="stylesheet" href="C:\Users\ashu\Desktop\My portfolio\Images\IMG20221015170207.jpg">
+	<style type="text/css">
+	#nav_navinfo{
+		border-radius:10px;
+		text-align:right;
+		margin-right:30px;
+		font-size:20px;
+		margin-top:-30px;
+	}
+	</style>
+	</head>
+	<body>    
+          <!--container of nav bar-->
+			<section class="navbar"> 
+				<div>
+				   <h4 id="title">PORTFOLIO.</h4>
+					<ul id="nav_navinfo" class="nav">
+					   <li><a href="#personal_info">Personal Information</a></li>
+					   <li><a href="#Educational_info">Educational Information</a></li>
+					   <li><a href="#Skills_info">Skills</a></li>
+					   <li><a href="#About_info">About us</a></li>
+					</ul>
+				</div>
+			</section>
+			
+			<!--container of main body-->
+			<section>
+		            <div id="main_body">
+					    <h1>Welcome To My Portfolio</h1>
+					</div>
+			</section>	
+            <section id="pages">
+			<link rel="stylesheet" ></link>
+			<!--Personal_info page-->
+				<div id="personal_info"  >
+				<img src=>
+					<table id="pers_table"  border="5" cellspacing="10px" cellpadding="20px"  >
+					
+						<tr cellpadding="1px" cellspacing="2px">
+							
+							<td rowspan="5">
+								<img  src="C:\Users\ashu\Desktop\My portfolio\Images\iam.jpg" alt="my photo">
+							</td>
+							
+						</tr>
+						<tr>
+							<td>Name:-  Ashish Aundhe</td> 
+						</tr>
+						<tr>
+							<td>Add:- Ogalewadi,Tal-Karad,Dist-Satara</td>
+						</tr>
+						<tr>
+							<td>Contact:- 7620563475</td>
+						</tr>
+						<tr>
+							<td>E-mail:-  ashishaundhe7877@gmail.com</td>
+						</tr>
+						
+						
+					</table>
+				</div>
+				<!--Educational info page-->
+				<div id="Educational_info" >
+					<table id="edu_table" border="3" >
+						<tr>
+					        <th>Exam</th>
+							<th>University</th>
+							<th>College Name</th>
+							<th>Year Of Passout</th>
+							<th>Gread</th>
+						
+						</tr>
+						<tr>
+							<td>BCS</td>
+							<td>Kolhapur</td>
+							<td>S.G.M.College,Karad</td>
+							<td>2021</td>
+							<td>75.60%</td>
+						</tr>
+						<tr>
+							<td>HHC</td>
+							<td>Kolhapur</td>
+							<td>Y.C.College,Karad</td>
+							<td>2017</td>
+							<td>52.65%</td>
+						</tr>
+						<tr>
+							<td>SSC</td>
+							<td>Kolhapur</td>
+							<td>A.V.M.O. Mahavidyalay,Karad</td>
+							<td>2015</td>
+							<td>67.52%</td>
+						</tr>
+						
+					</table>
+				</div>
+				<div id="Skills_info">
+				  </div>
+				<div id="About_info"></div>
+			</section>			
+			
+			
+	</body>   
+</html>
+
